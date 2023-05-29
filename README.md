@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full Stack Web developer from Afghanistan</h3>
 <img align="right" alt="coding" width="400" src="https://mycannabisaccountant.com/wp-content/uploads/2022/02/e87c5693979173.5e7f9c4d14e64.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravgangwarweb&label=Profile%20views&color=0e75b6&style=flat" alt="gauravgangwarweb" /> </p>
+<p align="left"> <img src="write you twitter&label=Profile%20views&color=0e75b6&style=flat" alt="gauravgangwarweb" /> </p>
 
 <p align="left"> <a href="your twitter or linkdin" target="blank"><img src="https://img.shields.io/twitter/follow/gauravgangwar51?logo=twitter&style=for-the-badge" alt="gauravgangwar51" /></a> </p>
 
