@@ -1,6 +1,6 @@
 ![MasterHead](https://images.squarespace-cdn.com/content/v1/60479868292a5d29e69ac6b9/023f904a-d3ca-496c-9afb-9745b2d7b503/Basics+of+Video+Coding.gif?format=1000w)
-<h1 align="center">Hi 👋, I'm Gaurav Gangwar</h1>
-<h3 align="center">A passionate Full Stack Web developer from India</h3>
+<h1 align="center">Hi 👋, I'm Mohammad Yaser</h1>
+<h3 align="center">A passionate Full Stack Web developer from Afghanistan</h3>
 <img align="right" alt="coding" width="400" src="https://mycannabisaccountant.com/wp-content/uploads/2022/02/e87c5693979173.5e7f9c4d14e64.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravgangwarweb&label=Profile%20views&color=0e75b6&style=flat" alt="gauravgangwarweb" /> </p>
@@ -11,19 +11,19 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development at Microverse**
 
-- 👨‍💻 All of my projects are available at [https://gauravgangwarweb.github.io/Portfolio-Project-Mobile-First-/](https://gauravgangwarweb.github.io/Portfolio-Project-Mobile-First-/)
+- 👨‍💻 All of my projects are available at [https://github.com/MohammadYaser](https://github.com/MohammadYaser)
 
 - 💬 Ask me about **Html, Css and Javascript**
 
-- 📫 How to reach me **gauravgangwar501@gamil.com**
+- 📫 How to reach me **Write your email**
 
-- ⚡ Fun fact **I think I am Crazy**
+- ⚡ Fun fact **I think......**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/gauravgangwar51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gauravgangwar51" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gauravgangwarweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav gangwar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/gauravgangwar501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gauravgangwar501" height="30" width="40" /></a>
+<a href="your twitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gauravgangwar51" height="30" width="40" /></a>
+<a href="your linkdin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav gangwar" height="30" width="40" /></a>
+<a href="your hacherrank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gauravgangwar501" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
