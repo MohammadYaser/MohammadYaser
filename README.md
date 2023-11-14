@@ -3,6 +3,8 @@
 <h3 align="center">A passionate Full Stack Web developer from Afghanistan</h3>
 <img align="right" alt="coding" width="400" src="https://mycannabisaccountant.com/wp-content/uploads/2022/02/e87c5693979173.5e7f9c4d14e64.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MohammadYaser&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadYaser" /> </p>
+
 - 🌱 I’m currently learning  Ruby on rails, Ruby, React, Redux, API, Webpack, ES6, JavaScript, PostgreSQL CSS, HTML.<br/>
 
 - 🌱 I’m currently learning **Full Stack Web Development at Microverse**
