@@ -114,7 +114,7 @@ I’m **Mohammad Yaser**, a **Full Stack Web Developer** passionate about buildi
 
 <p align="center">
   💬 Ask me about <b>React • JavaScript • NestJS • Node.js</b><br/>
-  📫 Email: <i>add-your-email-here</i>
+  📫 Email: <i>yasersafi19@outlook.com</i>
 </p>
 
 <!-- ====================== ANIMATED FOOTER ====================== -->
